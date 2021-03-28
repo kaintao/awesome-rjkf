@@ -6,7 +6,7 @@
   - [weui](https://github.com/Tencent/weui) - WeUI 为微信 Web 服务量身设计
   - [mui](https://github.com/dcloudio/mui) - 最接近原生APP体验的高性能框架
   - [uni-app](https://github.com/dcloudio/uni-app) - uni-app 是一个使用 Vue.js 开发小程序、H5、App的统一前端框架
-  - [uni-app](https://github.com/dcloudio/uni-app) - uni-app 是一个使用 Vue.js 开发小程序、H5、App的统一前端框架
+  - [Ant Design Mobile](https://github.com/ant-design/ant-design-mobile) - 一个基于 Preact / React / React Native 的 UI 组件库
 ### 3、小程序模板
 - [wepy](https://github.com/Tencent/wepy) - 是一款让小程序支持组件化开发的框架
     - [awesome-wepy：](https://github.com/aben1188/awesome-wepy) - WePY 资源汇总
