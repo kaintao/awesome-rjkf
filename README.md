@@ -3,55 +3,68 @@
 ## UI模板
 ### 1、管理后台模板
 ### 2、H5模板
-  - [weui：WeUI 为微信 Web 服务量身设计](https://github.com/Tencent/weui)
+  - [weui](https://github.com/Tencent/weui) - WeUI 为微信 Web 服务量身设计
 ### 3、小程序模板
-  - [wepy-weui-demo：WeUI在WePY中的使用示例，同一份代码可以运行在小程序上和Web上](https://github.com/wepyjs/wepy-weui-demo)
-  - [wepy-zanui-demo：基于zanui-weapp移植的一套wepy界面框架](https://github.com/brucx/wepy-zanui-demo)
-  - [wepy-X-minui：蘑菇街minui小程序UI组件库wepy版](https://github.com/jimmyrogue/wepy-X-minui)
-  - [kai-ui：基于WePY框架的高颜值、高效率组件库](https://github.com/Chaunjie/kai-ui)
-  - [wepy-com-toast：微信小程序toast组件](https://github.com/wepyjs/wepy-com-toast)
-  - [wepy-com-charts：基于微信小程序canvas的图表控件，适用于wepy框架](https://github.com/CalvinHong/wepy-com-charts)
-  - [wepy-com-pie：基于微信小程序canvas的饼图控件，适用于wepy框架](https://github.com/micro1226/wepy-com-pie)
-  - [wepy-com-toptip：a toptip component for 小程序~](https://github.com/ochukai/wepy-com-toptip)
-  - [wepy-com-swiper：微信小程序触摸内容滑动解决方案，适用于wepy框架](https://github.com/dlhandsome/wepy-com-swiper)
-  - [wepy-com-antdM：wepy's component, ui design by antd-mobile](https://github.com/XylitolLin/wepy-com-antdM)
-  - [wepy-com-selectab：微信小程序标签选择组件，适用于数量等某些单选操作](https://github.com/ColMugX/wepy-com-selectab)
-  - [wepy-com-pwdfield：微信小程序明密文输入框组件，适用于支付密码/房间号/验证码输入](https://github.com/ColMugX/wepy-com-pwdfield)
-  - [wepy-swipe-delete：微信小程序框架wepy-滑动删除插件](https://github.com/GeoffZhu/wepy-swipe-delete)
-  - [wepy-flexbox-grid：Flexbox grid system for wepy/weapp/wechat](https://github.com/afeiship/wepy-flexbox-grid)
-  - [spore-wepy-tipbox：类toast提示窗口，但只显示文字，可调整显示位置。用于小程序wepy框架](https://github.com/SporeUI/spore-wepy-tipbox)
-  - [leshare-map-weapp：基于微信小程序的地图展现工具，使用wepy框架及weui样式开发](https://github.com/coolhwm/leshare-map-weapp)
-  - [wepy-com-calendar：基于 wepy 的日历组件，内置多种主题，功能完备，使用友好](https://github.com/ronffy/wepy-com-calendar)
-  - [wepy-one-line-calendar：基于 wepy 的单行日历组件](https://github.com/VimMing/wepy-one-line-calendar)
-  - [wepy-calendar：基于wepy 的日历组件](https://github.com/callmesoul/wepy-calendar)
-  - [wepy-message：基于wepy 的类toast 消息提示](https://github.com/callmesoul/wepy-message)
-  - [wepy-com-loadings：基于Wepy开发的微信小程序loading加载动画组件](https://github.com/Licoy/wepy-com-loadings)
-  - [wepy-com-progress-circle：基于Wepy框架的圆形进度条](https://github.com/roonly/wepy-com-progress-circle)
-  - [wepy-match-input：微信小程序 wepyjs 第三方 动态匹配输入框插件](https://github.com/callmesoul/wepy-match-input)
-  - [wepy-simple-toast：基于wepy 的toast消息提示](https://github.com/jardenliu/wepy-simple-toast)
-  - [wepy-in-zanui: 一个基于zanui的wepy组件](https://github.com/colla2me/wepy-in-zanui)
-  - [wepy-slide-card: 基于wepy的slide-card组件](https://github.com/SoloJiang/wepy-slide-card)
-  - [wepy-sticker: wepy版小程序表情包组件](https://github.com/klouskingsley/wepy-sticker)
-  - [wepy-components: wepy完成的基础组件](https://github.com/Wuuuu/wepy-components)
-  - [wepy-listview: wepy版listview组件](https://github.com/qiangxinyu/wepy-listview)
-  - [wepy-com-iviewer: 基于wepy框架的Modal和Toast组件](https://github.com/wahao/wepy-com-iviewer)
-  - [wepy-com-icityer: 基于wepy框架的中国省市区选择组件](https://github.com/wahao/wepy-com-icityer)
-  - [wepy-com-inaver: 基于wepy框架的系统状态导航栏组件](https://github.com/wahao/wepy-com-inaver)
-  - [wepy-minui: 调用wepy封装方法，套用minui的UI组件](https://github.com/kagomeAli/wepy-minui)
-  - [wepy-slide: 基于wepy框架的侧滑组件](https://github.com/lulusir/wepy-slide)
-  - [wepy-com-selectab: 选择数量或者其他单选操作，可用于座位选择的组件](https://github.com/colmugx/wepy-com-selectab)
-  - [wepy-com-navbar: 基于wepy的NavBar组件](https://github.com/chenyangcun/wepy-com-navbar)
-  - [wepy-nices: 点赞动画插件](https://github.com/callmesoul/wepy-nices)
-  - [we-city-select: 城市选择组件（基于wepy）](https://github.com/shmy/we-city-select)
-  - [wepy-scroll: 楼层跳跃, 滚动楼层. 滚动商品时触发分类切换, 商品分类联动](https://github.com/kingov/wepy-scroll)
-  - [wepy-com-paper-modal: 基于wepy的简洁帅气的modal组件](https://github.com/johncalvinroberts/wepy-com-paper-modal)
-  - [wepy-com-paper-flash: 基于wepy的简洁帅气flash组件](https://github.com/johncalvinroberts/wepy-com-paper-flash)
-  - [wepy-com-paper-drawer: 基于wepy的简洁帅气drawer组件](https://github.com/johncalvinroberts/wepy-com-paper-drawer)
-  - [wepy-notice-bar：一个可以滚动的通知栏](https://github.com/Liqiankun/wepy-notice-bar)
-  - [wepy-datetime: 一个日期时间选择组件](https://github.com/threeq/wepy-datetime)
-  - [wepy2-com-dialog：基于wepy2的Dialog组件](https://github.com/fudiwei/wepy2-com-dialog)
-  - [wepy2-com-toast：基于wepy2的Toast组件](https://github.com/fudiwei/wepy2-com-toast)
-  - [wepy2-com-loading：基于wepy2的Loading组件](https://github.com/fudiwei/wepy2-com-loading)
+  - [wepy](https://github.com/Tencent/wepy) - 是一款让小程序支持组件化开发的框架
+    - [awesome-wepy：](https://github.com/aben1188/awesome-wepy) - WePY 资源汇总
+  - [ColorUI](https://github.com/weilanwl/ColorUI) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
+  - [kai-ui](https://github.com/Chaunjie/kai-ui) - 基于WePY框架的高颜值、高效率组件库
+- [Taro](https://github.com/NervJS/taro) - 使用 React 的方式开发小程序的框架，同时支持生成多端应用
+- [uni-app](https://github.com/dcloudio/uni-app) - 使用 Vue 语法开发小程序、H5、App的统一框架
+- [WePY](https://github.com/Tencent/wepy) -  支持组件化的小程序开发框架
+- [mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系
+- [chameleon](https://github.com/didi/chameleon) - 一套代码运行多端，一端所见即多端所见
+- [kbone](https://github.com/wechat-miniprogram/kbone) - Web 与小程序同构解决方案
+- [Remax](https://github.com/remaxjs/remax) -  使用真正的 React 构建小程序
+- [wept](https://github.com/chemzqm/wept) - 微信小程序实时运行环境
+- [wafer](https://github.com/tencentyun/wafer) - 快速构建具备弹性能力的微信小程序
+- [MPX](https://github.com/didi/mpx) - 增强型小程序框架，深度性能优化，支持跨小程序平台开发，完全兼容原生小程序组件
+- [Labrador](https://github.com/maichong/labrador) - 支持 ES6/7 的微信小程序组件化开发框架
+- [licia](https://github.com/liriliri/licia) - 支持小程序的 JS 工具库
+- [megalo](https://github.com/kaola-fed/megalo) - 基于 Vue 的小程序开发框架
+- [CloudBase Framework](https://github.com/Tencent/cloudbase-framework) - 腾讯云开发开源一键部署工具，支持部署小程序及云开发应用
+- [tina](https://github.com/tinajs/tina) - 轻巧的渐进式微信小程序框架
+- [minapp](https://github.com/qiu8310/minapp) - TypeScript 版小程序开发框架（兼容原生小程序代码）
+- [Okam](https://github.com/ecomfe/okam) - 使用类 Vue 方式开发小程序的渐进增强框架，支持生成微信/百度等主流平台的小程序
+- [xpmjs](https://github.com/xpmjs/xpmjs) - 微信小程序云端增强 SDK
+- [WeApp-Workflow](https://github.com/Jeff2Ma/WeApp-Workflow) -  基于 Gulp 的微信小程序前端开发工作流
+- [gulp-wxa-copy-npm](https://github.com/mdsb100/gulp-wxa-copy-npm) - 微信小程序 gulp 插件，解决 npm 包管理和 babel-runtime
+- [weact](https://github.com/haojy/weact) - 用 JSX 快速开发小程序
+- [socket.io-mp-client](https://github.com/cytle/socket.io-mp-client) - 微信小程序 socket.io 客户端
+- [@wxa](https://wxajs.github.io/wxa/) - AOP小程序开发框架
+- [postcss-pxtorpx-pro](https://github.com/Genuifx/postcss-pxtorpx-pro) - postcss px 转 rpx 插件
+- [px2rpx](https://github.com/allanguys/px2rpx) - Px 转 Rpx 在线工具
+- [wxml-parser](https://github.com/seanlong/wxml-parser) -  JavaScript WXML parser
+- [weappx](https://github.com/tolerance-go/weappx) - 基于 redux 的数据层管理框架
+- [weapp-start](https://github.com/tolerance-go/weapp-start) - 基于插件机制的开发脚手架，改善原生小程序开发体验
+- [Egret Wing](http://developer.egret.com/cn/github/egret-docs/Wing/update/update320/index.html) - 支持微信小程序实时预览的 IDE
+- [wxapp-graphql](https://github.com/Authing/wxapp-graphql) - 小程序 GraphQL 客户端
+- [gulp-wxapp-boilerplate](https://github.com/ksky521/gulp-wxapp-boilerplate) - 小程序+小程序云 Gulp 开发脚手架，支持云函数 mock
+- [wenaox](https://github.com/cnyballk/wenaox) - 小程序数据层管理 ，轻量性能好，支持中间件
+- [authing-wxapp-sdk](https://github.com/Authing/authing-wxapp-sdk) - 身份认证 for 微信小程序
+- [weapp-eslint-boilerplate](https://github.com/CoolRice/weapp-eslint-boilerplate) - 微信小程序 Eslint 通用模板文件，节省自己配置的时间
+- [Anka](https://iexception.github.io/anka-doc/book/index.html) - 渐进式小程序开发工具集，提供通用的开发函数库及组件
+- [WeAppBunXin](https://github.com/BakerJQ/WeAppBunXin) - 微信小程序开发之影分身术，一套代码生成多个小程序
+- [miniprogram-build](https://github.com/NewFuture/miniprogram-build) - 小程序命令行编译工具(支持typescript,原生npm,资源文件压缩...)
+- [wcc.js](https://github.com/caijw/wcc.js) - wcc.js 是wxml文件和wxs文件编译器的nodejs实现
+- [wcsc.js](https://github.com/caijw/wcsc.js) - wcsc.js 是wxss文件编译器的nodejs实现
+- [weapp-gulp](https://github.com/sunnie1992/weapp-gulp) - Gulp高效构建微信小程序，让开发变得更简单
+- [cheers-mp](https://github.com/bigmeow/cheers-mp) - Almost零配置微信原生小程序脚手架，vue-cli般的体验~(ts、less、原生npm、云OSS、CI自动发布体验版)
+- [weui-wxss](https://github.com/Tencent/weui-wxss) - 同微信原生视觉体验一致的基础样式库
+- [vant-weapp](https://github.com/youzan/vant-weapp) - 高颜值、好用、易扩展的微信小程序 UI 库
+- [wxParse](https://github.com/icindy/wxParse) - 微信小程序富文本解析自定义组件，支持 HTML 及 markdown 解析
+- [mp-html](https://github.com/jin-yufeng/mp-html) - 小程序富文本组件，支持渲染和编辑 html，支持在微信、QQ、百度、支付宝、头条和 uni-app 平台使用
+- [iview-weapp](https://github.com/TalkingData/iview-weapp) - 一套高质量的微信小程序 UI 组件库
+- [wux-weapp](https://github.com/wux-weapp/wux-weapp) - 一套组件化、可复用、易扩展的微信小程序 UI 组件库
+- [wx-charts](https://github.com/xiaolin3303/wx-charts) - 微信小程序图表 charts 组件
+- [Lin UI](https://github.com/TaleLin/lin-ui) - 一套设计优良、基于原生微信小程序语法的 UI 组件库
+- [wemark](https://github.com/TooBug/wemark) - 微信小程序 Markdown 渲染库
+- [wxapp-img-loader](https://github.com/o2team/wxapp-img-loader) - 微信小程序图片预加载组件
+- [we-cropper](https://github.com/we-plugin/we-cropper) -  微信小程序图片裁剪工具
+- [wxa-plugin-canvas](https://github.com/jasondu/wxa-plugin-canvas) - 微信小程序朋友圈海报生成组件
+- [wx_calendar](https://github.com/treadpit/wx_calendar) - 小程序日历
+- [wxapp](https://github.com/youzouzou/wxapp) - 微信小程序组件
+- [Wa-UI](https://github.com/liujians/Wa-UI) - 针对微信小程序整合的一套 UI 库
 
 ## JAVA相关
 ### 工具
