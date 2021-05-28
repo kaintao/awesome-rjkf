@@ -60,4 +60,5 @@
 ## 其他工具
 - [Docusaurus](https://github.com/facebook/docusaurus) - Docusaurus 是基于 React 构建的站点生成器
 - [docsify](https://github.com/docsifyjs/docsify/) - docsify 是一个动态生成文档网站的工具
+- [vuepress](https://github.com/vuejs/vuepress) - Vue 驱动的静态网站生成器
 - [spug](https://github.com/openspug/spug) - 面向中小型企业设计的轻量级无Agent的自动化运维平台
